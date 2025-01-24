@@ -50,3 +50,5 @@ View Project
   
   📧 Email: [My Email](rossi.gianluigi@gmail.com)
 
+[![Galileo73's GitHub stats](https://github-readme-stats.vercel.app/api?username=galileo73&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
