@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Hi there! I’m Gianluigi, a passionate GNSS Engineer and passionate Full-Stack Developer dedicated to building elegant and efficient solutions. 🚀
 
-<!--
-**galileo73/galileo73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
+  
+  🌟 Transforming Ideas into Digital Realities: Whether it's creating responsive frontends or crafting robust backend APIs, I thrive on delivering seamless user experiences.
+  
+  💻 Full-Stack Enthusiast: Experienced in both frontend and backend technologies, ensuring end-to-end project excellence.
+  
+  🌍 Remote Work Advocate: Excited to collaborate on innovative projects with global teams.
+  
+🔧 Tech Stack
+  
+   - Frontend: HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS.
+  
+   - Backend: Node.js, Express.js.
+  
+   - Databases: PostgreSQL, MongoDB.
+  
+   - Version Control: Git, GitHub.
+  
+   - DevOps: GitHub Actions, AWS Basics.
 
-Here are some ideas to get you started:
+🛠 Services I Offer
+  
+  ✨ Building responsive landing pages and portfolio websites.
+  
+  🛍️ Developing complete e-commerce platforms.
+  
+  📊 Crafting robust RESTful APIs.
+  
+  🧰 Integrating third-party tools and APIs for custom needs.
+  
+  🌟 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E-commerce Store:
+
+A full-stack shopping platform with React, Node.js, and PostgreSQL.
+View Project
+Task Manager:
+
+A productivity app featuring task tracking and collaboration.
+View Project
+Portfolio Website:
+
+Fully responsive and hosted via GitHub Pages.
+View Project
+📬 Let’s Connect!
+  
+  💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/gianluigirossialtran/)
+  
+  📧 Email: [My Email](rossi.gianluigi@gmail.com)
+
